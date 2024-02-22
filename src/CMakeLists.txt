@@ -1,0 +1,7 @@
+add_subdirectory(UsageEnvironment)
+add_subdirectory(BasicUsageEnvironment)
+add_subdirectory(groupsock)
+add_subdirectory(liveMedia)
+add_subdirectory(hlsProxy)
+add_subdirectory(mediaServer)
+add_subdirectory(proxyServer)

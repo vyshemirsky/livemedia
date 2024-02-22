@@ -1,0 +1,5 @@
+Live555 liveMedia library converted to CMake project to be compiled in Yocto Linux tree.
+
+Linux configuration is hardcoded, and not suitable for other environments.
+
+Requires libssl and libcrypto to be available.
